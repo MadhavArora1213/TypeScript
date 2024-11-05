@@ -1,0 +1,7 @@
+// Basic Types Or We Can Say That Data Types
+
+// Primitive Types(Number,String,Boolean)
+// Arrays
+// Tuples
+// Enums
+// Any, Void, Unknown, Null, Undefined,Never
